@@ -1,0 +1,7 @@
+C:\Users\chris\Desktop\ToM - Project\back\TourOfMarvels\TourOfMarvels\obj\Debug\net6.0\TourOfMarvels.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\ToM - Project\back\TourOfMarvels\TourOfMarvels\obj\Debug\net6.0\TourOfMarvels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\ToM - Project\back\TourOfMarvels\TourOfMarvels\obj\Debug\net6.0\TourOfMarvels.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\ToM - Project\back\TourOfMarvels\TourOfMarvels\obj\Debug\net6.0\TourOfMarvels.AssemblyInfo.cs
+C:\Users\chris\Desktop\ToM - Project\back\TourOfMarvels\TourOfMarvels\obj\Debug\net6.0\TourOfMarvels.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\ToM - Project\back\TourOfMarvels\TourOfMarvels\obj\Debug\net6.0\TourOfMarvels.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chris\Desktop\ToM - Project\back\TourOfMarvels\TourOfMarvels\obj\Debug\net6.0\TourOfMarvels.MvcApplicationPartsAssemblyInfo.cache
